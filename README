@@ -1,4 +1,16 @@
 Usefull configuration settings for LXDE on openSUSE
 ===================================================
 
+Files descriptions
+==================
+
+├── etc
+│   └── X11
+│       └── xorg.conf.d
+│           └── 90-keytable.conf # X11 keyboard switch en/ru using capslock
+├── home
+│   └── user
+│       └── config
+│           └── openbox
+│               └── lxde-rc.xml  # usefull lxde keybindings
 
